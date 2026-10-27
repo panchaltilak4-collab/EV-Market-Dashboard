@@ -1,0 +1,9 @@
+id,manufacturer,model,vehicle_type,battery_type,driving_range_km,annual_sales_2026,country
+1,Tesla,Model Y,SUV,NMC,525,12000,USA
+2,BYD,Atto 3,SUV,LFP,420,15000,China
+3,Tesla,Model 3,Sedan,NMC,491,9500,USA
+4,Tata,Nexon EV,SUV,LFP,312,5000,India
+5,BYD,Seal,Sedan,LFP,570,8000,China
+6,Hyundai,Ioniq 5,SUV,NMC,481,4000,South Korea
+7,MG,ZS EV,SUV,LFP,461,3500,India
+8,Nissan,Leaf,Hatchback,NMC,270,2500,Japan
